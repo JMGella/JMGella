@@ -1,6 +1,6 @@
 # 👋 ¡Hola!  
 
-Soy un estudiante de **Desarrollo de Software** con un background algo variado. Antes de sumergirme en el mundo de la programación, he trabajado en distintos ámbitos, desde el servicio técnico 🔧 hasta la producción audiovisual 📹🎙️. También he tenido la oportunidad de liderar equipos, lo que me ha enseñado mucho sobre el trabajo en equipo y la resolución de problemas.  
+Soy Javier, un estudiante de **Desarrollo de Software** con un background algo variado. Antes de sumergirme en el mundo de la programación, he trabajado en distintos ámbitos, desde el servicio técnico 🔧 hasta la producción audiovisual 📹🎙️. También he tenido la oportunidad de liderar equipos, lo que me ha enseñado mucho sobre el trabajo en equipo y la resolución de problemas.  
 
 ## 🚀 Sobre mí  
 - 🌍 Amo viajar y descubrir nuevas culturas.  
